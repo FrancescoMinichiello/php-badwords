@@ -16,8 +16,8 @@
                     <input type="text" class="form-control my-2" id="paragrafo" aria-describedby="paragrafo" placeholder="Inserisci un paragrafo" name="paragrafo">
                   </div>
                   <div class="form-group">
-                    <label for="parola">Inserisci una parola</label>
-                    <input type="text" class="form-control my-2" id="parola" aria-describedby="parola" placeholder="Inserisci una parola" name="parola">
+                    <label for="parolaCensurata">Inserisci una parola</label>
+                    <input type="text" class="form-control my-2" id="parolaCensurata" aria-describedby="parolaCensurata" placeholder="Inserisci una parola" name="parolaCensurata">
                   </div>
                   <button class="btn btn-primary btn-xl">Invia</button>
                   <button type="reset" class="btn btn-primary btn-xl bg-warning">Reset</button>
