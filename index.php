@@ -19,7 +19,8 @@
                     <label for="parola">Inserisci una parola</label>
                     <input type="text" class="form-control my-2" id="parola" aria-describedby="parola" placeholder="Inserisci una parola" name="parola">
                   </div>
-                  <button class="btn btn-primary">Invia</button>
+                  <button class="btn btn-primary btn-xl">Invia</button>
+                  <button type="reset" class="btn btn-primary btn-xl bg-warning">Reset</button>
                 </form>
             </div>
         </div>
