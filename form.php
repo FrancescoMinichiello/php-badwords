@@ -4,6 +4,7 @@
 
     //prendiamo il valore che si trova dentro a parola
     $parola = $_GET["parola"];
+    $parola= '***'
 
 
 ?>
